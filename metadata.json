@@ -1,0 +1,6 @@
+{
+  "name": "10G",
+  "description": "Futuristic mobile-first coding education platform with cyberpunk aesthetics, interactive editor, and Gemini-powered AI coding tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
